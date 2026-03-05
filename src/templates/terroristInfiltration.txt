@@ -1,0 +1,11 @@
+🔴 התראת חדירת מחבלים!
+
+📋 {title}
+
+🏙 ישובים ({count}):
+{cities}
+
+⚠️ הנחיות:
+{instructions}
+
+🕐 {time} | 📅 {date}

@@ -1,0 +1,11 @@
+🌊 התראת צונאמי!
+
+📋 {title}
+
+🏙 ישובים ({count}):
+{cities}
+
+⚠️ הנחיות:
+{instructions}
+
+🕐 {time} | 📅 {date}

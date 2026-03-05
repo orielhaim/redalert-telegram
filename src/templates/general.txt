@@ -1,0 +1,11 @@
+🚨 התראה: {type}
+
+📋 {title}
+
+🏙 ישובים ({count}):
+{cities}
+
+⚠️ הנחיות:
+{instructions}
+
+🕐 {time} | 📅 {date}

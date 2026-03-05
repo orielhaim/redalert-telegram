@@ -1,0 +1,11 @@
+✈️ התראת חדירת כלי טיס עוין!
+
+📋 {title}
+
+🏙 ישובים ({count}):
+{cities}
+
+⚠️ הנחיות:
+{instructions}
+
+🕐 {time} | 📅 {date}

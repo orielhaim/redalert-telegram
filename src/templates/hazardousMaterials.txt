@@ -1,0 +1,11 @@
+☣️ התראת חומרים מסוכנים!
+
+📋 {title}
+
+🏙 ישובים ({count}):
+{cities}
+
+⚠️ הנחיות:
+{instructions}
+
+🕐 {time} | 📅 {date}

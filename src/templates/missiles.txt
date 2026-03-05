@@ -1,0 +1,11 @@
+🚀 התראת רקטות וטילים!
+
+📋 {title}
+
+🏙 ישובים ({count}):
+{cities}
+
+⚠️ הנחיות:
+{instructions}
+
+🕐 {time} | 📅 {date}

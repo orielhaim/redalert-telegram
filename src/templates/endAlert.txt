@@ -1,0 +1,10 @@
+✅ סיום אירוע
+
+📋 {title}
+
+🏙 ישובים:
+{cities}
+
+{instructions}
+
+🕐 {time} | 📅 {date}

@@ -1,0 +1,16 @@
+{
+  "name": "redalert-telegram",
+  "module": "src/index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "grammy": "^1.41.1",
+    "socket.io-client": "^4.8.3"
+  }
+}

@@ -1,0 +1,11 @@
+☢️ התראת אירוע רדיולוגי!
+
+📋 {title}
+
+🏙 ישובים ({count}):
+{cities}
+
+⚠️ הנחיות:
+{instructions}
+
+🕐 {time} | 📅 {date}
