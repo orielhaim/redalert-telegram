@@ -1,8 +1,8 @@
 # 🚨 RedAlert Telegram Bot
 
-בוט טלגרם שמקבל התראות **צבע אדום** בזמן אמת ושולח אותן לערוץ או קבוצה בטלגרם.
+בוט טלגרם לשליחת התראות **צבע אדום** בזמן אמת לערוץ או קבוצה בטלגרם.
 
-המערכת מבוססת על [redalert.orielhaim.com](https://redalert.orielhaim.com) - שירות שמספק בזמן אמת.
+המערכת מבוססת על [redalert.orielhaim.com](https://redalert.orielhaim.com) - שירות התראות בזמן אמת
 
 ---
 
